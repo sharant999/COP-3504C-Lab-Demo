@@ -1,0 +1,57 @@
+
+Playlist Manager Menu
+1. Add Song
+2. Delete Song
+3. Skip to Next Song
+4. Skip to Previous Song
+5. Show Current Song
+6. Show Full Playlist
+7. Add Song to Upcoming Queue
+8. Play Song
+9. Backtrack to Recently Played Song
+0. Exit
+
+Enter your choice: Enter song title: Song added.
+Song added.
+Enter song title: Song added.
+Song added.
+Enter song title: Song added.
+Song added.
+Enter song title: Song "Song A" already exists in the playlist.
+Song added.
+
+Playlist
+Song A
+Song B
+Song C
+
+Enter song title to queue: Song added to queue.
+Enter song title to queue: Song added to queue.
+Enter song title to queue: Song added to queue.
+Now playing: Song C
+Now playing: Song C
+No next song available.
+Now playing: Song C
+No previous song available.
+Now playing: Song C
+Backtracked to previous song.
+Now playing: Song A
+Enter song title to delete: Song deleted.
+
+Playlist
+Song A
+Song C
+
+Now playing: Song B
+Now playing: Song B
+Now playing: Song C
+Now playing: Song C
+Now playing: Song A
+Now playing: Song A
+Backtracked to previous song.
+Now playing: Song C
+Backtracked to previous song.
+Now playing: Song B
+Backtracked to previous song.
+Now playing: Song A
+Exiting!
