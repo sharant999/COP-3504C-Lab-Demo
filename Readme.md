@@ -19,6 +19,25 @@ This lab helps students apply key programming concepts in a practical, engaging 
 
 ---
 
+## Compile the Program
+
+Open a terminal and run:
+
+bash
+g++ -o playlist playlist.cpp
+
+After compiling, run the executable:
+
+bash
+./playlist_manager
+
+To test with predefined input and capture output:
+
+bash
+./playlist < input.txt > output.txt
+
+---
+
 ### 1. Object-Oriented Programming (OOP):
 Students create two main classes: `Song` and `PlaylistManager`. The `Song` class represents a track with a title and links to the previous and next songs in the list. The `PlaylistManager` class controls the playlist—adding, deleting, and playing songs—while keeping its data members private to enforce encapsulation.
 
